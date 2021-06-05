@@ -1,0 +1,16 @@
+C:\Users\reina\Desktop\Design Patterns Livros\Factory Method\bin\Debug\net5.0\Factory Method.exe
+C:\Users\reina\Desktop\Design Patterns Livros\Factory Method\bin\Debug\net5.0\Factory Method.deps.json
+C:\Users\reina\Desktop\Design Patterns Livros\Factory Method\bin\Debug\net5.0\Factory Method.runtimeconfig.json
+C:\Users\reina\Desktop\Design Patterns Livros\Factory Method\bin\Debug\net5.0\Factory Method.runtimeconfig.dev.json
+C:\Users\reina\Desktop\Design Patterns Livros\Factory Method\bin\Debug\net5.0\Factory Method.dll
+C:\Users\reina\Desktop\Design Patterns Livros\Factory Method\bin\Debug\net5.0\ref\Factory Method.dll
+C:\Users\reina\Desktop\Design Patterns Livros\Factory Method\bin\Debug\net5.0\Factory Method.pdb
+C:\Users\reina\Desktop\Design Patterns Livros\Factory Method\obj\Debug\net5.0\Factory Method.csprojAssemblyReference.cache
+C:\Users\reina\Desktop\Design Patterns Livros\Factory Method\obj\Debug\net5.0\Factory Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reina\Desktop\Design Patterns Livros\Factory Method\obj\Debug\net5.0\Factory Method.AssemblyInfoInputs.cache
+C:\Users\reina\Desktop\Design Patterns Livros\Factory Method\obj\Debug\net5.0\Factory Method.AssemblyInfo.cs
+C:\Users\reina\Desktop\Design Patterns Livros\Factory Method\obj\Debug\net5.0\Factory Method.csproj.CoreCompileInputs.cache
+C:\Users\reina\Desktop\Design Patterns Livros\Factory Method\obj\Debug\net5.0\Factory Method.dll
+C:\Users\reina\Desktop\Design Patterns Livros\Factory Method\obj\Debug\net5.0\ref\Factory Method.dll
+C:\Users\reina\Desktop\Design Patterns Livros\Factory Method\obj\Debug\net5.0\Factory Method.pdb
+C:\Users\reina\Desktop\Design Patterns Livros\Factory Method\obj\Debug\net5.0\Factory Method.genruntimeconfig.cache
